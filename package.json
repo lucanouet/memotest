@@ -1,0 +1,22 @@
+{
+  "name": "memotest",
+  "version": "1.0.0",
+  "description": "memotst para r arg prog",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucanouet/memotest.git"
+  },
+  "author": "lucas ng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucanouet/memotest/issues"
+  },
+  "homepage": "https://github.com/lucanouet/memotest#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0-beta1"
+  }
+}

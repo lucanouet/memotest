@@ -1,0 +1,12 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.casillero{    
+    height: 120px;
+    width: 60px;
+    border: 10px solid rgb(255, 255, 255);
+    background-color: rgb(148, 161, 53);
+    
+}
