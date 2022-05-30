@@ -1,12 +1,38 @@
 body{
     margin: 0px;
     padding: 0px;
+    background-color: black;
 }
 
-.casillero{    
-    height: 120px;
-    width: 60px;
-    border: 10px solid rgb(255, 255, 255);
-    background-color: rgb(148, 161, 53);
+.container{
+    background-color: chocolate;
+}
+.casillero{
+    height: 22vh;
+    width: 25vw;
+    padding: 0px;
+    border: 1px solid black;
     
+}
+
+.ficha{
+    height: 100%;
+    width: 100%;
+    background-image: url(img/madera.jpg) ;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    
+    
+}
+
+.ficha img{
+    height: 100%;
+    width: 100%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    
+}
+
+#jugar{
+    margin-top: 5px;
 }
